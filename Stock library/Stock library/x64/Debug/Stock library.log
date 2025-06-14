@@ -1,0 +1,17 @@
+﻿  Book.cpp
+  Display.cpp
+  library.cpp
+C:\Users\User\Desktop\C++\Stock library\library.cpp(33,54): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\Desktop\C++\Stock library\library.cpp(70,51): warning C4267: '=': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+C:\Users\User\Desktop\C++\Stock library\library.cpp(70,51): warning C4267:         with
+C:\Users\User\Desktop\C++\Stock library\library.cpp(70,51): warning C4267:         [
+C:\Users\User\Desktop\C++\Stock library\library.cpp(70,51): warning C4267:             _Ty=int
+C:\Users\User\Desktop\C++\Stock library\library.cpp(70,51): warning C4267:         ]
+C:\Users\User\Desktop\C++\Stock library\library.cpp(71,51): warning C4267: '=': 將 'size_t' 轉換為 '_Ty'，資料可能遺失
+C:\Users\User\Desktop\C++\Stock library\library.cpp(71,51): warning C4267:         with
+C:\Users\User\Desktop\C++\Stock library\library.cpp(71,51): warning C4267:         [
+C:\Users\User\Desktop\C++\Stock library\library.cpp(71,51): warning C4267:             _Ty=int
+C:\Users\User\Desktop\C++\Stock library\library.cpp(71,51): warning C4267:         ]
+  main.cpp
+  正在產生程式碼...
+  Stock library.vcxproj -> C:\Users\User\Desktop\C++\Stock library\x64\Debug\Stock library.exe
